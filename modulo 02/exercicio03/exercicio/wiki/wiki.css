@@ -1,0 +1,16 @@
+*{
+	font-family: arial black;
+}
+h1{
+	color: #358992;
+}
+h2{
+	color: rgb(00, 00, 99);
+}
+a{
+	color: #FF9996;
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}

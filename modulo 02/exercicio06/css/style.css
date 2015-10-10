@@ -1,0 +1,30 @@
+*{
+	font-family: "Segoe UI Black";
+}
+body{
+	background: #e5e5b5;
+	color: #534741;
+}
+a{
+	color: #0071bc;
+	text-decoration: none;
+}
+li{
+	font-size: 36px;
+	list-style: none;
+}
+h1{
+	font-size: 72px;
+	font-weight: normal;
+}
+img{
+	float: right;		
+}
+.menu{
+	/*border: 1px solid #F00;*/
+	float: left;
+	width: 300px;
+}
+.conteudo{
+	margin-left: 300px;
+}

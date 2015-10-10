@@ -1,0 +1,14 @@
+*{
+	font-family: Verdana
+}
+
+label{
+	padding-bottom: 20px;
+	display: block;
+}
+input, select, textarea{
+	background: #EEE;
+	padding: 4px;
+	font-size: 18px;
+	color: #00F;
+}

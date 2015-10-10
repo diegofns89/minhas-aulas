@@ -1,0 +1,36 @@
+*{
+	font-family: arial
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	margin: 0;
+	background: #808080;
+	height: 65px;
+	list-style: none;
+	font-size: 18px;
+}
+li{
+	float: left;
+	padding: 21px;
+	/*border: 1px solid #F00;*/
+}
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+h1{
+	font-size: 36px;
+	color: #0071BC;
+	text-align: center;
+	font-weight: normal;
+}
+p{
+	margin: 40px;
+}
+img{
+	float: left;
+	width: 170px;
+}

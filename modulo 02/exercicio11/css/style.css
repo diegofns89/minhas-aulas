@@ -1,0 +1,49 @@
+table{
+	border: 3px solid #000;
+	border-collapse: collapse;
+}
+th{
+	padding: 12px;
+	border: 1px solid #000;
+	text-align: right;
+
+}
+
+
+/* tabela 1 */
+.tabela1{
+	margin-bottom: 25px;
+}
+.tabela1 th{
+	background: #999;
+}
+.tabela1 td{
+	padding: 10px;
+	border: 1px solid #000;
+	text-align: right;
+}
+.tabela1 .fds{
+	background: #ccc;
+}
+.tabela1 .feriado{
+	background: #fff200;
+}
+
+/* Tabela 2*/
+body .tabela2{
+	margin-bottom: 25px;
+}
+
+body .tabela2 th{
+	background: #0a54b5;
+	color: #fff;
+}
+body .tabela2 td{
+	padding: 10px;
+	border: 1px solid #000;
+	text-align: right;
+}
+body .tabela2 .fds{
+	background: #c9d3f2;
+} 
+

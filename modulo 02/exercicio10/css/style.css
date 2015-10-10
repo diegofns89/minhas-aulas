@@ -1,0 +1,21 @@
+table{
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+td{
+	padding: 10px;
+	border: 1px solid #000;
+	text-align: right;
+}
+th{
+	background: #999;
+	padding: 10px;
+	border: 1px solid #000;
+	text-align: right;
+}
+.fds{
+	background: #ccc;
+}
+.feriado{
+	background: #fff200;
+}

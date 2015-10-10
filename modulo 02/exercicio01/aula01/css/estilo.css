@@ -1,0 +1,18 @@
+h1{
+	color: green;
+	font-family: "Calibri";
+	font-size: 60px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+li{
+	color: brown;
+}
+strong{
+	color: blue;
+}
+p{
+	font-family: "Calibri";
+	font-size: 16px;
+}

@@ -1,0 +1,43 @@
+*{
+	font-family: verdana;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	margin: 0;
+	background: #006EFF;
+	height: 70px;
+	list-style: none;
+	font-size: 20px;
+}
+li{
+	float: left;
+	padding: 21px;
+}
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+h1{
+	font-size: 50px;
+	color: #FF0000;
+	text-align: center;
+	font-weight: normal;
+	text-align: justify;
+	margin: 40px;
+}
+p{
+	text-align: justify;
+	margin: 40px;
+
+}
+span{
+	color: #FF0000;
+}
+img{
+	float: right;
+	width: 350px;
+	padding: 30px;
+}

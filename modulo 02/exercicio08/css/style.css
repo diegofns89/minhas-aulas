@@ -1,0 +1,38 @@
+*{
+	font-family: Calibri;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+.topo{
+	padding: 10px;
+	text-align: center;
+	background: #5f7a30;
+
+}
+h1{
+	font-size: 50px;
+	color: #fff;
+}
+.esquerda{
+	width: 250px;
+	float: left;
+	padding-right: 25px;
+}
+.direita{
+	width: 250px;
+	float: right;
+	padding-bottom: 40px;
+}
+.rodape{
+	padding: 10px;
+	text-align: center;
+	background: #6a03a5;
+	clear: both;
+	margin-top: 40px;
+}
+h2{
+	font-size: 50px;
+	color: #fff;
+}

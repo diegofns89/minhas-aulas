@@ -1,0 +1,9 @@
+
+.menu ul{
+	background: #F66;
+	height: 20px;
+	padding: 20px;
+}
+.menu ul li{
+	float: left;
+}

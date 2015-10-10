@@ -1,0 +1,33 @@
+/* Referencia: http://www.w3schools.com/css */
+body{
+	font-family: "Calibri", "Verdana", "Arial"; /* Primeira fonte principal e restante de "estepe" */ 	
+}
+h1{
+	/* tipos de cores */
+	color: purple; /* nome da cor em ingles */
+	color: rgb(0, 51, 0);
+	color: #43609C; /* Hexadecimal = # + 6 digitos 0-9|A-F */
+
+	/*Familia de fontes*/
+	font-family: "Calibri"; /* Somente 1 fonte */
+
+
+	/* Tamanhos */	
+	font-size: 400%;
+	font-size: 10em;
+	font-size: 60px;
+
+	/* Outras propriedades específicas*/
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+p{
+	color: red;
+}
+li{
+	color: red;
+}
+img{
+	border-radius: 50%
+}

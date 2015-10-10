@@ -1,0 +1,42 @@
+*{
+	font-family: 'Lato'
+}
+.cabecalho{
+	background: #ff0000;
+    background: linear-gradient(to bottom,  #cc0000 0%,#b20500 100%); /* W3C */
+
+	color: white;
+	margin-bottom: 0;
+	height: 70px;
+}
+.cabecalho a{
+	color: #fff;
+	font-size: 20px;
+}
+.meio{
+	height: 566px;
+	background: url('../img/happiness.jpg') center center;
+}
+.meio h2{
+	margin-top: 180px;
+	font-size: 90px;
+	color:#ff0000;
+	font-weight: bold;
+	line-height: 56px;
+}
+.meio h3{
+	color: #731111;
+	font-weight: bold;
+}
+.navbar-brand{
+	padding-top: 6px;
+}
+.navbar-nav > li > a{
+	padding-top: 20px;
+}
+.textual h3{
+	font-size: 50px;
+	font-weight: 300;
+	color: #ff0000;
+	
+}
