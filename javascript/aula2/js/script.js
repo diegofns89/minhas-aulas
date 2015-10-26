@@ -6,4 +6,4 @@ prompt("Digite seu nome");
 prompt("Digite a sua idade");
 prompt("Digite a sua cidade");
 
-12 + 4
+alert(12 + 4)
