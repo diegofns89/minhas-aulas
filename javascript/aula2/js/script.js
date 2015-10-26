@@ -6,4 +6,7 @@ prompt("Digite seu nome");
 prompt("Digite a sua idade");
 prompt("Digite a sua cidade");
 
-12 + 4
+//Esse é um comentário em Javascript
+//Tudo que escrever com '//' será ignorado pelo browser
+//Daqui em diante, siga o exemplo. Não se esqueça de rodar a index.html no navegador para ver se está tudo certo
+console.log(12 + 4);
