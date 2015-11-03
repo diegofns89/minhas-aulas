@@ -11,4 +11,4 @@ console.log("Paralelepipido")
 console.log("Ouviram do Ipiranga às margens plácidas")
 console.log("A")
 console.log("Olidaque".length > 3);
-console.log("josefina".length < 5);
+console.log("josefina".length > 12);
