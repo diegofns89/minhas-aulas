@@ -1,18 +1,18 @@
-if ("Carlos Silva".length > 3) {
-
+if ("Alexandre Siqueira".length <= 3) {
+  console.warn("Nome do candidato não tem mais de 3 caracteres ");
 }
-if (25 > 20) {
-
+if (20 < 20) {
+  console.warn("A idade do candidato é menor que 20 anos")
 }
-if (4 > 1) {
-
+if (1 < 1) {
+  console.warn("A candidato tem menos de 1 ano de experiencia")
 }
-if ("São paulo") {
-
+if ("São paulo" != "São paulo") {
+  console.warn("O candidato não mora em São paulo")
 }
-if ("Carlos tem 1 filho") {
-  console.warn("Carlos não corresponde a condição de não ter filhos.")
+if (0 > 0) {
+  console.warn("o candidato possui filho")
 }
-if ("Carlos fala o idioma Francês.") {
-
+if ("Ingles" == "") {
+  console.warn("o candidato não fala um idioma estrangeiro")
 }
