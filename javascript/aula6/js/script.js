@@ -1,4 +1,4 @@
-if(25 >= 24){
+if(26 >= 24){
     console.log("Ok!");
 }else{
     console.warn("Candidata não tem mais de 24 anos");
