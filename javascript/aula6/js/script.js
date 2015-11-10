@@ -13,7 +13,7 @@ if ("musica" == "musica" && "pescaria" == "pescaria") {
 }else{
   console.warn("A candidata não gosta de musica e nem de pescaria");
 }
-if (0 = 0) {
+if (0 == 0) {
   console.log("Ok!");
 }else{
   console.warn("A candidata tem filhos");
