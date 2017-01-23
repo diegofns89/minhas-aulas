@@ -16,4 +16,6 @@
 - Objects
 - Date
 - Regex
-- Class
+- Class (OOP)
+
+
