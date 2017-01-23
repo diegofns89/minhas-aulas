@@ -7,7 +7,7 @@
 - If-else - `Done`
 - While/loop - `Done`
 - For/lopp - `Done`
-- Functions
+- Functions - _WIP_
 - Loop control
 - Switch-case
 - Numbers/Math
