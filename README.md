@@ -6,7 +6,7 @@
 - Operators - `Done`
 - If-else - `Done`
 - While/loop - `Done`
-- For/lopp - `Done`
+- For/loop - `Done`
 - Functions - _WIP_
 - Loop control
 - Switch-case
