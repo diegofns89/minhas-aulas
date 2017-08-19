@@ -18,4 +18,31 @@
 - Regex
 - Class (OOP)
 
+# C# Roadmap
+
+- Overview - 
+- Syntax - 
+- Variables - 
+- Operators - 
+- If-else - 
+- Classes - 
+- Group of objects -
+- Loops - 
+- Method overloads -
+- Static methods - 
+- Inheritance -
+- Polymorphism -
+
+## SQL
+- Get Started
+- Create
+- Update
+- Queries
+- Sorts
+- Join
+
+## ASP.NET
+- MVC
+- Routes
+
 
