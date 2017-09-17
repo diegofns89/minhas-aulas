@@ -1,0 +1,11 @@
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\bin\Debug\netcoreapp2.0\firstapp.deps.json
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\bin\Debug\netcoreapp2.0\firstapp.runtimeconfig.json
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\bin\Debug\netcoreapp2.0\firstapp.runtimeconfig.dev.json
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\bin\Debug\netcoreapp2.0\firstapp.dll
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\bin\Debug\netcoreapp2.0\firstapp.pdb
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.AssemblyInfoInputs.cache
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.AssemblyInfo.cs
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.dll
+C:\Users\Diego\Projetos\minhas-aulas\c#\firstapp\firstapp\obj\Debug\netcoreapp2.0\firstapp.pdb

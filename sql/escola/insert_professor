@@ -1,0 +1,1 @@
+insert into professores (data_criacao, data_atualizacao, nome, sobrenome, sexo, data_nascimento, cpf, rg, especializacao) values (now(), now(), 'Olidaque', 'Francisco', 'M', '1947-10-03', '14758526951', '584589421', 'Trabalhador');
