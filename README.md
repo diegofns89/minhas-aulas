@@ -20,10 +20,10 @@
 
 # C# Roadmap
 
-- Overview - 
-- Syntax - 
-- Variables - 
-- Operators - 
+- Overview - `Done`
+- Syntax - `Done`
+- Variables - `Done`
+- Operators - _WIP_
 - If-else - 
 - Classes - 
 - Group of objects -
