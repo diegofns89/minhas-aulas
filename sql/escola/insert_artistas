@@ -1,0 +1,12 @@
+insert into artistas (nome)
+values
+('Ed Sheeran'),
+('Marron 5'),
+('Maluma'),
+('Pitty'),
+('Boyce Avenue'),
+('Zayn Malik'),
+('Sia'),
+('Taylor Swift'),
+('Ana Vilela'),
+('Ivete Sangalo');

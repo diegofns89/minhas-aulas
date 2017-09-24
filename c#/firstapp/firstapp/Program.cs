@@ -6,29 +6,30 @@ namespace firstapp
     {
         static void Main(string[] args)
         {
-            Dog Rex = new Dog();
-            Rex.Color = "Branco";
-            Rex.Height = 1.5;
-            Rex.Mute = false;
-            Rex.Name = "Fred";
-            Console.WriteLine(Rex.Bark());
-            Console.WriteLine(Rex.Run());
+            Dog Jump = new Dog();
+            Jump.Color = "Branco";
+            Jump.Height = 1.5;
+            Jump.Mute = false;
+            Jump.Name = "Fred";
+            Jump.Breed = "2";
+            Jump.Gender = "Canis";
+            Jump.Age = 4;
+            Jump.Trained = true;
+            Console.WriteLine(Jump.Jump());
 
-            Dog Scooby = new Dog();
-            Scooby.Color = "Preto";
-            Scooby.Height = 1.2;
-            Scooby.Mute = false;
-            Scooby.Name = "Neco";
-            Console.WriteLine(Scooby.Bark());
-            Console.WriteLine(Scooby.Run());
+            Dog Pricing = new Dog();
+            Pricing.Color = "Branco";
+            Pricing.Height = 1.5;
+            Pricing.Mute = false;
+            Pricing.Name = "Fred";
+            Pricing.Breed = "2";
+            Pricing.Gender = "Canis";
+            Pricing.Age = 4;
+            Pricing.Trained = true;
+            Pricing.Price = 2;
 
-            Dog Pastor = new Dog();
-            Pastor.Color = "Cinza";
-            Pastor.Height = 0.2;
-            Pastor.Mute = false;
-            Pastor.Name = "Cacau";
-            Console.WriteLine(Pastor.Bark());
-            Console.WriteLine(Pastor.Run());
+
+            Console.WriteLine(Pricing.Pricing());
 
 
 
